@@ -1,4 +1,4 @@
 # kundan
-this is my first Git Repositry
+This Is My First Git Repositry
 <Br>
-Author- Kundan
+Author- KUNDAN
